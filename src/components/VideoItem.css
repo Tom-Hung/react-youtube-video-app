@@ -1,0 +1,12 @@
+.video-item {
+  display: flex !important;
+  align-items: center !important ;
+}
+
+.video-item:hover {
+  cursor: pointer;
+}
+
+.video-item img {
+  max-width: 180px !important;
+}
